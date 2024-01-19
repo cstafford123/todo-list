@@ -1,2 +1,3 @@
-# todo-list
+# Daily Task List
 Program that creates a digital to-do list
+When you run this script you will be asked what action you would like to do. The menu tells you what actions there are, they are indicated by a number 1-8. Once you select an option, another input will appear pertaining to said action. For instance if you pick 1, which is add task, you will be asked what task you are trying to add. The directions tell you what to state. You can print your to-do list when you are done so you can see what you have to do. You can also mark things as complete, which will cause a check to appear next to the task when you print. There is an alphabetical sort function, a clear function, and a remove task function.
